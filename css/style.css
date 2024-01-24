@@ -60,7 +60,7 @@ section#login > div#imagem{
     background-size: cover;
     height: 200px;
 }
-section#login > div#formulario{
+section#login > div#form{
     display: block;
     padding: 10px;
 
